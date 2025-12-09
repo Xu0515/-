@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic: Interactive AI Tree",
+  "description": "A high-end 3D Christmas experience controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
